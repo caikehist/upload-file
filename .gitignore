@@ -3,3 +3,6 @@ venv/
 venv
 venv/*
 arquivos_servidos/*
+
+# Abre uma exceção para rastrear apenas o arquivo que mantém a pasta viva
+!arquivos_servidos/.gitkeep
