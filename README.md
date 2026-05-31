@@ -1,5 +1,5 @@
 # Upload File
-Um pequeno servidor de arquivos local.
+Um pequeno servidor local.
 
 ## Crie um ambiente virtual: python -m venv venv
 
